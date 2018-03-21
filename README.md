@@ -75,7 +75,7 @@ Then we install linux headers and broadcom WiFi driver software:
 ```
 # apt-get install linux-headers-`uname -r`
 # apt-get install broadcom-sta-dkms
-
+```
 You should have fully functional WiFi now (available in top right menu).
 
 #### Bluetooth driver
