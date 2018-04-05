@@ -64,6 +64,9 @@ Feb 22 16:35:00 in-target: W: Possible missing firmware /lib/firmware/rtl_nic/rt
 Feb 22 16:35:00 in-target: W: Possible missing firmware /lib/firmware/rtl_nic/rtl8168d-1.fw for module r8169
 ```
 Because we want to download commercial software we need to add the following entry to /ect/apt/sources.list file (su required)
+```
+deb http://ftp.pl.debian.org/debian/ stretch non-free
+```
 
 Then we can run:
 ```
