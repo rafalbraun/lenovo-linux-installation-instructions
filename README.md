@@ -1,4 +1,4 @@
-### Installation of Linux Debian v9 on Lenovo ThinkPad e531 laptop
+### Installation of Linux Debian Stretch on Lenovo ThinkPad e531 laptop
 
 If you'd like to start your journey with linux I personally recommend Debian - it is simple enough to get you started but also complex enough to learn you something
 
